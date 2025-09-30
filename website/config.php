@@ -8,7 +8,7 @@
 function config($key = '')
 {
     $config = [
-        'name' => 'This is a Capstone project by Vikram with Edurekha',
+        'name' => 'This is a Capstone project by Vikram with Edurekha deploying on Test server',
         'nav_menu' => [
             '' => 'Home',
             'content/about-us.php' => 'About Us',
